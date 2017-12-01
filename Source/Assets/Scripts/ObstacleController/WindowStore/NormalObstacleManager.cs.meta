@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8222f58b620e9e5439bdd58c303391b2
+timeCreated: 1425624679
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {fileID: 100000, guid: 4920871a697c30646a9daf3c0c0bf443, type: 2}
+  - cannon: {fileID: 100000, guid: 6bb12002386d092478886943184fe09b, type: 2}
+  - coin: {fileID: 133632, guid: 0fce2d1531339ab4b8f095177f30ea04, type: 2}
+  - cylinder: {fileID: 100000, guid: 5e3e73715c83116458049a4de1ffb884, type: 2}
+  - skeleton: {fileID: 167308, guid: bfd1785a0fc923c45a068fa780247e1e, type: 2}
+  - chest: {fileID: 142950, guid: 88b749918bff1604aa1ab77370220ac1, type: 2}
+  - rectangle: {fileID: 100000, guid: 7e24c14c83045b14e9ce041859f8a32d, type: 2}
+  - barricade: {fileID: 100002, guid: a806db67ae4c7774aa670c01480d951f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

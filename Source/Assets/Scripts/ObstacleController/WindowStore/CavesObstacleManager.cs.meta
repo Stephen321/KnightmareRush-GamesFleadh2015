@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 49017588371e5f248aee8ff1a51bf336
+timeCreated: 1425636756
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fallingRock: {fileID: 176006, guid: 6a00af39ac7874549b5034b06a84f76b, type: 2}
+  - skeletion: {fileID: 167308, guid: bfd1785a0fc923c45a068fa780247e1e, type: 2}
+  - coin: {fileID: 133632, guid: 0fce2d1531339ab4b8f095177f30ea04, type: 2}
+  - chest: {fileID: 142950, guid: 88b749918bff1604aa1ab77370220ac1, type: 2}
+  - rock: {fileID: 133582, guid: 7a0ac088b459aa14ab4d40c8b6ea64a3, type: 2}
+  - caveMonster: {fileID: 112588, guid: 724ff24ee9d91654888fe6ee44f5842c, type: 2}
+  - boulder: {fileID: 179368, guid: 756d84cc4f964354ea356291e6e4afbe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

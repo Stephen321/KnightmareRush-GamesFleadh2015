@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f93eb9de5b6b33d4090629ede3dfdd89
+timeCreated: 1425649078
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {fileID: 100000, guid: 4920871a697c30646a9daf3c0c0bf443, type: 2}
+  - coin: {fileID: 133632, guid: 0fce2d1531339ab4b8f095177f30ea04, type: 2}
+  - skeleton: {fileID: 167308, guid: bfd1785a0fc923c45a068fa780247e1e, type: 2}
+  - barricade: {fileID: 100002, guid: a806db67ae4c7774aa670c01480d951f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

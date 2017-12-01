@@ -1,0 +1,1525 @@
+fileFormatVersion: 2
+guid: 76f9c38331f22364aa150bcbc20e23e5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BottomSpine
+    100004: Collar_L
+    100006: Collar_R
+    100008: Control
+    100010: FingerF_L
+    100012: FingerF_L.001
+    100014: FingerF_L.002
+    100016: FingerF_R
+    100018: FingerF_R.001
+    100020: FingerF_R.002
+    100022: FingerP_L
+    100024: FingerP_L.001
+    100026: FingerP_L.002
+    100028: FingerP_R
+    100030: FingerP_R.001
+    100032: FingerP_R.002
+    100034: FingerPinkie_L
+    100036: FingerPinkie_L.001
+    100038: FingerPinkie_L.002
+    100040: FingerPinkie_R
+    100042: FingerPinkie_R.001
+    100044: FingerPinkie_R.002
+    100046: FingerR_L
+    100048: FingerR_L.001
+    100050: FingerR_L.002
+    100052: FingerR_R
+    100054: FingerR_R.001
+    100056: FingerR_R.002
+    100058: Foot_L
+    100060: Foot_R
+    100062: Forearm_L
+    100064: Forearm_R
+    100066: Head
+    100068: Hip_L
+    100070: Hip_R
+    100072: Knee_L
+    100074: Knee_R
+    100076: Knight
+    100078: KnightsSkeleton
+    100080: Leg_L
+    100082: Leg_R
+    100084: LowerLeg_L
+    100086: LowerLeg_R
+    100088: MiddleSpine
+    100090: Neck
+    100092: Shoulder_L
+    100094: Shoulder_R
+    100096: Thumb_L
+    100098: Thumb_L.001
+    100100: Thumb_L.002
+    100102: Thumb_R
+    100104: Thumb_R.001
+    100106: Thumb_R.002
+    100108: Toes_L
+    100110: Toes_R
+    100112: TopSpine
+    100114: UpperLeg_L
+    100116: UpperLeg_R
+    100118: Wrist_L
+    100120: Wrist_R
+    400000: //RootNode
+    400002: BottomSpine
+    400004: Collar_L
+    400006: Collar_R
+    400008: Control
+    400010: FingerF_L
+    400012: FingerF_L.001
+    400014: FingerF_L.002
+    400016: FingerF_R
+    400018: FingerF_R.001
+    400020: FingerF_R.002
+    400022: FingerP_L
+    400024: FingerP_L.001
+    400026: FingerP_L.002
+    400028: FingerP_R
+    400030: FingerP_R.001
+    400032: FingerP_R.002
+    400034: FingerPinkie_L
+    400036: FingerPinkie_L.001
+    400038: FingerPinkie_L.002
+    400040: FingerPinkie_R
+    400042: FingerPinkie_R.001
+    400044: FingerPinkie_R.002
+    400046: FingerR_L
+    400048: FingerR_L.001
+    400050: FingerR_L.002
+    400052: FingerR_R
+    400054: FingerR_R.001
+    400056: FingerR_R.002
+    400058: Foot_L
+    400060: Foot_R
+    400062: Forearm_L
+    400064: Forearm_R
+    400066: Head
+    400068: Hip_L
+    400070: Hip_R
+    400072: Knee_L
+    400074: Knee_R
+    400076: Knight
+    400078: KnightsSkeleton
+    400080: Leg_L
+    400082: Leg_R
+    400084: LowerLeg_L
+    400086: LowerLeg_R
+    400088: MiddleSpine
+    400090: Neck
+    400092: Shoulder_L
+    400094: Shoulder_R
+    400096: Thumb_L
+    400098: Thumb_L.001
+    400100: Thumb_L.002
+    400102: Thumb_R
+    400104: Thumb_R.001
+    400106: Thumb_R.002
+    400108: Toes_L
+    400110: Toes_R
+    400112: TopSpine
+    400114: UpperLeg_L
+    400116: UpperLeg_R
+    400118: Wrist_L
+    400120: Wrist_R
+    4300000: Knight
+    7400000: Running
+    7400002: Jumping
+    7400004: Slicing
+    7400006: FallBack
+    7400008: DashLeft
+    7400010: DashRight
+    7400012: Magic
+    7400014: Trip
+    7400016: FallFront
+    9500000: //RootNode
+    13700000: Knight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Running
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jumping
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Slicing
+      takeName: Take 001
+      firstFrame: 76
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: FallBack
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DashLeft
+      takeName: Take 001
+      firstFrame: 152
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DashRight
+      takeName: Take 001
+      firstFrame: 183
+      lastFrame: 206
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Magic
+      takeName: Take 001
+      firstFrame: 206
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Trip
+      takeName: Take 001
+      firstFrame: 235
+      lastFrame: 268
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: FallFront
+      takeName: Take 001
+      firstFrame: 268
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Knight
+        weight: 1
+      - path: KnightsSkeleton
+        weight: 1
+      - path: KnightsSkeleton/Control
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerF_L/FingerF_L.001/FingerF_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerP_L/FingerP_L.001/FingerP_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerPinkie_L/FingerPinkie_L.001/FingerPinkie_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/FingerR_L/FingerR_L.001/FingerR_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_L/Shoulder_L/Forearm_L/Wrist_L/Thumb_L/Thumb_L.001/Thumb_L.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerF_R/FingerF_R.001/FingerF_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerP_R/FingerP_R.001/FingerP_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerPinkie_R/FingerPinkie_R.001/FingerPinkie_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/FingerR_R/FingerR_R.001/FingerR_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Collar_R/Shoulder_R/Forearm_R/Wrist_R/Thumb_R/Thumb_R.001/Thumb_R.002
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck
+        weight: 1
+      - path: KnightsSkeleton/Control/BottomSpine/MiddleSpine/TopSpine/Neck/Head
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Knee_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Foot_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_L/Toes_L
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Foot_R
+        weight: 1
+      - path: KnightsSkeleton/Control/Leg_R/Toes_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
